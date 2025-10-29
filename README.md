@@ -25,6 +25,3 @@ This project demonstrates the core functionality of an online shopping cart — 
 | **Logic / Interaction** | Vanilla JavaScript |
 | **Design** | Responsive Flexbox Layout |
 
----
-
-## 📂 Folder Structure
